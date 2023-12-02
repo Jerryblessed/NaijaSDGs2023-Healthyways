@@ -8,7 +8,7 @@ Simple blog app built with Flask.
 
 
 
-[click for more images📷](https://github.com/Jerryblessed/Softwarebank/tree/master/images)
+[click for more images📷](https://github.com/Jerryblessed/NaijaSDGs2023-Healthyways/tree/master/images)
 
 ## Features 💫
 
@@ -60,7 +60,7 @@ Simple blog app built with Flask.
 ## Installation guide on Windows local machine ⬇️
 
 download source code from Github 💾
-`git clone https://github.com/Jerryblessed/Softwarebank.git`
+`git clone https://github.com/Jerryblessed/NaijaSDGs2023-Healthyways.git`
 
 go to directory 📁
 `cd softwarebank`
