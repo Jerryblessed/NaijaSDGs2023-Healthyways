@@ -6,10 +6,7 @@ Simple blog app built with Flask.
 
 ### [Demo Video 📺](https://youtu.be/-vv_lLoM-lI)
 
-| [Desktop](https://github.com/Jerryblessed/Softwarebank/tree/master/images/desktop) | [Mobile](https://github.com/Jerryblessed/Softwarebank/tree/master/images/mobile) |
-| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|                    ![appDesktop](/images/desktop/light.png)                     |                    ![appMobile](/images/mobile/light.jpeg)                    |
-|                     ![appDesktop](/images/desktop/dark.png)                     |                    ![appMobile](/images/mobile/dark.jpeg)                     |
+
 
 [click for more images📷](https://github.com/Jerryblessed/Softwarebank/tree/master/images)
 
@@ -17,8 +14,8 @@ Simple blog app built with Flask.
 
 | Feature                | Status |
 | :--------------------- | :----: |
-| Redhat deployment      |   ✅    |
-| Intel tools            |   ✅    |
+| Azure deployment       |   ✅    |
+| Health Professionals   |   ✅    |
 | Google AI chat         |   ✅    |
 | User Page              |   ✅    |
 | User Login             |   ✅    |
