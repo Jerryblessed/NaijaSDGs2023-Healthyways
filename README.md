@@ -4,7 +4,7 @@ Simple blog app built with Flask.
 <br/>
 [Contact](mailto:jeremiah.ope@stu.cu.edu.ng)<br/>
 
-### [Demo Video 📺](https://youtu.be/-vv_lLoM-lI)
+### [Demo Video 📺](https://vimeo.com/872042174?share=copy)
 
 
 
