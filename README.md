@@ -1,4 +1,4 @@
-# [Healthyways📜](http://softwarebank-git-jerryblessed-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/)
+# [Healthyways📜](https://healthyways.azurewebsites.net/)
 
 Simple blog app built with Flask.
 <br/>
